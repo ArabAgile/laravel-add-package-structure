@@ -4,4 +4,6 @@
 return [
     'src/PkgServiceProvider.php' => 'src/:uc:packageServiceProvider.php',
     'src/Models/Pkg.php' => 'src/Models/:uc:package.php',
+    'src/Controllers/ApiController.php' => 'src/Controllers/ApiController.php',
+    'src/Controllers/WebController.php' => 'src/Controllers/WebController.php',
 ];
